@@ -1,5 +1,3 @@
-"use client";
-
 export default function Task({ title, description, children }) {
   return (
     <div className="task shadow-md rounded-lg p-6 my-4 border">
